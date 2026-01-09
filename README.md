@@ -2,6 +2,12 @@
 
 The overall system is used to count and track the number of people.
 
+<p align="center">
+  <img src="Pic10.jpg" width="600">
+</p>
+
+**Figure 1:** Counting and trackig the number of people.
+
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
 
 Real-time object detection and classification. Paper: [version 1](https://arxiv.org/pdf/1506.02640.pdf), [version 2](https://arxiv.org/pdf/1612.08242.pdf).
